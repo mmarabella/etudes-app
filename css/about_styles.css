@@ -1,0 +1,23 @@
+.container {
+   width: 80%;
+   margin: 0 auto;
+}
+
+.header h1 {
+   text-align: center;
+}
+
+.column {
+     display: inline-block;
+     float: left;
+     margin: 20px;
+}
+
+.main-text {
+       clear: both;
+       padding-top: 60px;
+}
+
+.column {
+     width: 30%;
+}

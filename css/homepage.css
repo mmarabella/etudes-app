@@ -1,0 +1,23 @@
+.container {
+   width: 80%;
+   margin: 0 auto;
+}
+
+.column {
+     display: inline-block;
+     float: left;
+     margin: 10px;
+}
+
+.main-text {
+       margin: 20px 10px;
+}
+
+.column {
+     width: 30%;
+}
+
+.header {
+	background-image: url("../img/notestransparent.png");
+	background-size: cover;
+}
